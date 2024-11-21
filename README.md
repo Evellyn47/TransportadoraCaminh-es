@@ -15,4 +15,4 @@ Além disso, desenvolvi minha habilidade em iterar sobre listas utilizando o mé
 - **Boas práticas de codificação:**
   Melhorei a organização e modularidade do código, tornando-o mais fácil de manter e entender.
 
-Este projeto foi essencial para consolidar meu conhecimento em arrays e iterações, além de reforçar a importância de um código bem estruturado em projetos de maior complexidade.
+  Este projeto foi essencial para consolidar meu conhecimento em arrays e iterações, além de reforçar a importância de um código bem estruturado em projetos de maior complexidade.
